@@ -541,6 +541,15 @@ header {
     z-index: -1;
     opacity: 53%;
   }
+@media (max-width: 600px) {
+     .eid-items .zena2 { 
+      width: 94%;
+  }
+  .eid-items .zena1 {
+    display: none;
+  }
+  }
+ 
   .landing-title {
    font-family: 'Cairo', sans-serif;
     /* background-color: rgb(209 127 18 / 28%); */
